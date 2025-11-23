@@ -1,4 +1,4 @@
-# Лабораторна робота №9 + Workflow
+# Лабораторна робота №8 + №9 + Workflow + Docker
 ### Практичне заняття «Робота з Dockerfile та Docker Compose»
 
 ### Мета
